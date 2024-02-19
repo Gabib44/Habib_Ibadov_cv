@@ -98,12 +98,12 @@ window.addEventListener("scroll", scrollActive);
 /* ----- PDF DOWNLOAD FUNCTION ----- */
 function downloadPDF() {
   // Указываете путь к PDF-файлу
-  var pdfPath = 'noser.pdf';
+  var pdfPath = 'Lebenslauf.pdf';
 
   // Создаем ссылку с атрибутом download
   var link = document.createElement('a');
   link.href = pdfPath;
-  link.download = 'noser.pdf';
+  link.download = 'Lebenslauf.pdf';
 
   // Добавляем ссылку на страницу и кликаем на нее
   document.body.appendChild(link);
