@@ -490,10 +490,7 @@ animation-delay: 0.3s;
 width: 15%;
 animation-delay: 0.3s;
 }
-.skill-per.php{
-  width: 10%;
-  animation-delay: 0.3s;
-}
+
 @keyframes progress {
   0%{
       width: 0;
