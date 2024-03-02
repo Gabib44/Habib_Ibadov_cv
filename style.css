@@ -475,19 +475,19 @@ h3 {
 }
 
 .skill-per.html{
-  width: 80%;
+  width: 15%;
   animation-delay: 0.1s;
 }
 .skill-per.css{
-width: 30%;
+width: 5%;
 animation-delay: 0.3s;
 }
 .skill-per.javascript{
-width: 30%;
+width: 5%;
 animation-delay: 0.3s;
 }
 .skill-per.Python{
-width: 70%;
+width: 15%;
 animation-delay: 0.3s;
 }
 .skill-per.php{
